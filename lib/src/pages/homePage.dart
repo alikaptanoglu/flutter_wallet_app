@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
       children: <Widget>[
         CircleAvatar(
           backgroundImage: NetworkImage(
-              "https://jshopping.in/images/detailed/591/ibboll-Fashion-Mens-Optical-Glasses-Frames-Classic-Square-Wrap-Frame-Luxury-Brand-Men-Clear-Eyeglasses-Frame.jpg"),
+              "https://jshopping.in/test.jpg"),
         ),
         SizedBox(width: 15),
         TitleText(text: "Hello,"),
